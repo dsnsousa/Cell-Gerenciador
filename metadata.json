@@ -1,0 +1,6 @@
+{
+  "name": "ECELL GESTÃO",
+  "description": "Aplicativo profissional para gerenciamento de assistência técnica de celulares, controle de vendas, estoque, ordens de serviço e financeiro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
